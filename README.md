@@ -1,4 +1,4 @@
-#Retail Management System#
+# Retail Management System
 
 This is a sample project for keeping track of some of the concepts in Microservice development.
 
